@@ -1,5 +1,6 @@
 # Learn_Numpy
 Youtube link : https://www.youtube.com/playlist?list=PLBxsDkWU3QbXqJ_2mmLkgErmHpDWPfS-k
+
 Numpy - 01:
 In this Notebook I have covered Creation of Numpy array 1D, 2D, accessing elelemnst of Numpy array, Aggregate functions along Axis (i.e. rows or columns)
 
